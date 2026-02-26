@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anthropics/openrouter-mcp"
+    "url": "https://github.com/mokarimi19/openrouter-mcp"
   },
   "engines": {
     "node": ">=18.0.0"
