@@ -1,5 +1,5 @@
 {
-  "name": "openrouter-mcp",
+  "name": "@0xmrk/openrouter-mcp",
   "version": "2.0.0",
   "description": "Talk to 500+ AI models from inside Claude Code. One file. Zero config.",
   "main": "index.js",
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mokarimi19/openrouter-mcp"
+    "url": "https://github.com/0xmrk/openrouter-mcp"
   },
   "engines": {
     "node": ">=18.0.0"
